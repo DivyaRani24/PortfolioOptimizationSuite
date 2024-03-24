@@ -1,43 +1,38 @@
-#Python Portfolio Optimization Notebooks
+# Python Portfolio Optimization Notebooks
 
-A collection of Python3 Juptyer Notebooks focused on Portfolio Optimization using 
-pandas, numpy, matplotlib.pyplot, and scipy
+This repository contains a set of Python3 Jupyter Notebooks focused on portfolio optimization techniques using popular libraries such as pandas, numpy, matplotlib, and scipy.
 
-Below is a brief list of the topics covered in the notebooks
+## Topics Covered in the Notebooks
 
+### Calculations
+- Log Returns
+- Daily Returns
+- Expected Portfolio Returns
+- Expected Portfolio Variance
+- Expected Portfolio Volatility
+- Portfolio Beta
+- Sharpe Ratio
+- Treynor Ratio
+- Information Ratio
+- Omega Ratio
+- Sortino Ratio
 
-Calculate
+### Optimization Techniques
+- Minimum Volatility
+- Maximum Sharpe Ratio
+- Target Return
+- Portfolios within a Specified Range
 
-Log Returns,
-Daily Returns,
-Expected Portfolio Returns,
-Expected Portfolio Variance,
-Expected Portfolio Volitility,
-Portfolio Beta,
-Sharpe Ratio,
-Treynor Ratio,
-Information Ratio,
-Omega Ratio,
-Sortino Ratio
+### Data Generation
+- Random Weights
+- Covariance Matrix
+- Correlation Matrix
+- Benchmark/Market Returns (e.g., S&P 500)
 
-
-Optimize 
- 
-Minimum Volatility,
-Maximum Sharpe,
-Minimum Volatility,
-Target Return,
-Portfolios within a Specified range, 
-
-
-Generate 
-
-Random Weights,
-Covariance Matrix,
-Correlation Matrix,
-A Benchmark/Market Returns (S&P500)
-
-
-Visualize
-
-Efficient Frontier,Maximum Sharpe Ratio portfolio, Minimum Vol portfolio, Individual asset allocation within a portfolio, Distribution of Returns, Check Distribution of Returns
+### Visualization
+- Efficient Frontier
+- Maximum Sharpe Ratio Portfolio
+- Minimum Volatility Portfolio
+- Individual Asset Allocation within a Portfolio
+- Distribution of Returns
+- Check Distribution of Returns
