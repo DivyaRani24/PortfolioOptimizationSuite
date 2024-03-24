@@ -1,6 +1,6 @@
-# Python Portfolio Optimization Notebooks
+# Portfolio Optimization Suite
 
-This repository contains a set of Python3 Jupyter Notebooks focused on portfolio optimization techniques using popular libraries such as pandas, numpy, matplotlib, and scipy.
+Welcome to the Portfolio Optimization Suite repository! This collection of Python3 Jupyter Notebooks is designed to provide comprehensive coverage of portfolio optimization techniques using popular libraries such as pandas, numpy, matplotlib, and scipy.
 
 ## Topics Covered in the Notebooks
 
